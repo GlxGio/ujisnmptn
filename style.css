@@ -1,0 +1,57 @@
+
+#container {
+	background: #ccc;
+	font-family: verdana;
+	font-size: 11px;
+	margin: 5px 5px 5px 5px;
+	}
+
+body {
+	width: auto;
+	margin: auto;
+	background: white;
+	}
+
+.navigation {
+	width : auto;
+	margin:auto;
+	background: red;
+	font-family: verdana;
+	color : white;
+	padding: 5px;
+	}
+
+span {
+	margin : 5px 5px 5px 5px;
+	color: #ffffff;
+	font-family : verdana;
+	font-size : 11px;
+}
+
+form {
+	margin : 4px 4px 4px 4px;
+	padding : 5px;
+	
+}
+
+h1 {
+	font-family : verdana;
+	font-weight : bold;
+	font-size : 12px;
+	text-align : center;
+}
+
+.tampilhasil {
+	text-align : center;
+	font-weight : bold;
+	font-size : 11px;
+	font-family: verdana;
+	margin: 5px 5px 5px 5px;
+	padding : 4px;
+}
+
+.mainbody {
+	padding : 4px;
+}
+
+

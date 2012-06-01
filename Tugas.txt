@@ -1,0 +1,13 @@
+untuk format makalah, laporannya wahyu bisa jadi rujukan. cuma ganti sistem kerjanya.
+
+--------------------------------------------------------------------------
+Sistem Kerja
+
+Sederhana sekaliji kerjanya ini applikasi. nanti di setiap halaman ujian (ipa.php, ips.php dsb) ada form soal yang terhubung ke file hitungnya masing-masing.
+Cek saja php nya nanti kau liat ada <form action="linkfilehitungnya" ..... /> . 
+
+seandainya nilainya < 50, nanti puncul pesan "MAAF" tapi kalo nilainya >=50 akan muncul pesan "SELAMAT"
+
+--------------------------------------------------------------------------
+
+Oke, Selamat membuat laporan. kalo ada yang kau bingung sms saja.

@@ -1,7 +1,7 @@
-<?php include "header.php" ?>
+<?php include "header.php"; ?>
     <div id="container">
         <h1><p>Pertanyaan</p></h1>
-    <form action="/ujisnmptn/hasiltpa.php" method="post">
+    <form action="hasiltpa.php" method="post">
 
       <p>Nama Anda  
         <input type="text" name="name" /></p>
@@ -62,7 +62,7 @@ rata-rata pulang pergi?</p>
         <li><input type="radio" name="q5" value="5" />49,5 km/jam</li>
 	  </ol>
       
-      <p><input type="image" src="/ujisnmptn/images/tombol.png" border="0"></p>
+      <p><input type="image" src="images/tombol.png" border="0"></p>
 	</form>
 </div>
 

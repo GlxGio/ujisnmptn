@@ -1,7 +1,6 @@
 <?php include "header.php"; ?>
 <div id="container">
 <div class="tampilhasil">
-<form>
 <?php
   //Membaca query variable dari form pertanyaan
   $q1 = $_POST['q1'];
@@ -63,6 +62,6 @@
      }
   }
 ?>
-<a text-align="center" href="/ujisnmptn/ipa.php">kembali</a>
+<a href="ipa.php">kembali</a>
 </div>
 </div>

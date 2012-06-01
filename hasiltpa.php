@@ -1,4 +1,4 @@
-<?php include "header.php" ?>
+<?php include "header.php"; ?>
 <div id="container">
 <div class="tampilhasil">
 <?php
@@ -52,6 +52,6 @@
      }
   }
 ?>
-<a href="/ujisnmptn/tpa.php">kembali</a>
+<a href="tpa.php">kembali</a>
 </div>
 </div>

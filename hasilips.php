@@ -1,4 +1,4 @@
-<?php include "header.php" ?>
+<?php include "header.php"; ?>
 <div id="container">
 <div class="tampilhasil">
 <?php
@@ -61,6 +61,6 @@
      }
   }
 ?>
-<a href="/ujisnmptn/ips.php">kembali</a>
+<a href="ips.php">kembali</a>
 </div>
 </div>

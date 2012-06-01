@@ -1,7 +1,7 @@
-<?php include "header.php" ?>
+<?php include "header.php"; ?>
     <div id="container">
                 <h1><p>Pertanyaan</p></h1>
-    <form action="/ujisnmptn/hasilips.php" method="post">
+    <form action="hasilips.php" method="post">
 
       <p>Nama Anda  
         <input type="text" name="name" /></p>
@@ -83,7 +83,7 @@
         <li><input type="radio" name="q8" value="4" />penguasa</li>
         <li><input type="radio" name="q8" value="5" />ilmuwan</li>      
       
-      <p><input type="image" src="/ujisnmptn/images/tombol.png" border="0"></p>
+      <p><input type="image" src="images/tombol.png" border="0"></p>
     
       </form>
     </div>

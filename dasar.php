@@ -1,7 +1,7 @@
-<?php include "header.php" ?>
+<?php include "header.php"; ?>
     <div id="container">
                 <h1><p>Pertanyaan</p></h1>
-    <form action="/ujisnmptn/hasildasar.php" method="post">
+    <form action="hasildasar.php" method="post">
 
       <p>Nama Anda  
         <input type="text" name="name" /></p>
@@ -129,7 +129,7 @@ held in Windhoek from May 26 to 29 this year.</p>
         <li><input type="radio" name="q9" value="5" />a series of</li>      
       </ol>
       
-      <p><input type="image" src="/ujisnmptn/images/tombol.png" border="0"></p>
+      <p><input type="image" src="images/tombol.png" border="0"></p>
     
       </form>
     </div>

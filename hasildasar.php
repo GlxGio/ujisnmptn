@@ -64,6 +64,6 @@
      }
   }
 ?>
-<a href="/ujisnmptn/dasar.php">kembali</a>
+<a href="dasar.php">kembali</a>
 </div>
 </div>

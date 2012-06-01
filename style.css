@@ -19,6 +19,7 @@ body {
 	font-family: verdana;
 	color : white;
 	padding: 5px;
+	text-align:  center;
 	}
 
 span {
@@ -48,6 +49,7 @@ h1 {
 	font-family: verdana;
 	margin: 5px 5px 5px 5px;
 	padding : 4px;
+
 }
 
 .mainbody {
@@ -56,6 +58,8 @@ h1 {
 
 .header {
 	text-align : center;
+	margin-top: 4px;
+	margin-bottom: 4px;
 }
 
 
